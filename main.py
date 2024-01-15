@@ -2,7 +2,7 @@ from random import randint, choice
 
 
 def get_randint():
-    return [randint(1, 50) for _ in range(6)]
+    return [randint(1, 50) for _ in range(7)]
 
 
 def get_choice():
